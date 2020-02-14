@@ -1,2 +1,2 @@
 # algorithms
-practicing algorithms with GO
+practicing algorithms given by AlgoExpert
